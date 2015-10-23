@@ -1,0 +1,17 @@
+[Tt]humbs.db
+*.DS_Store
+[Dd]esktop.ini
+~$*
+*~
+.svn
+*.sublime-project
+*.sublime-workspace
+tmp/
+logs/*.log
+dev/
+.grunt
+node_modules/
+sftp-config.json
+docs/
+vendor/
+composer.lock

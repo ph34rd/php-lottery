@@ -1,0 +1,25 @@
+{
+	"name": "lottery-test",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Test for lottery.",
+	"author": {
+		"name": "ph34rd",
+		"email": "ph34rd@gmail.com"
+	},
+	"main": "index.js",
+	"engines": {
+		"node": ">=4.0.0",
+		"npm": ">=2.0.0"
+	},
+	"dependencies": {
+		"async": "^1.4.2",
+		"mysql": "^2.9.0",
+		"request": "^2.65.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "ISC"
+}

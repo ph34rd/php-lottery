@@ -1,0 +1,16 @@
+{
+	"name": "ph34rd/lottery",
+	"description": "Lottery test work.",
+	"license": "ISC",
+	"authors": [
+		{
+			"name": "ph34rd",
+			"email": "ph34rd@gmail.com"
+		}
+	],
+	"require": {
+		"silex/silex": "^1.3",
+		"doctrine/dbal": "^2.5",
+		"symfony/validator": "^2.7"
+	}
+}
